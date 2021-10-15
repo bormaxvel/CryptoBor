@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace ConsoleApp2
+namespace С_
 {
     class Program
     {
@@ -33,8 +33,6 @@ namespace ConsoleApp2
                 string textRNGs = Convert.ToBase64String(rndNumber);
                 Console.WriteLine(textRNGs);
             }
-            
-
         }
     }
 }
