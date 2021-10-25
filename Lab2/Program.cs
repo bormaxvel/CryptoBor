@@ -42,7 +42,8 @@ namespace Пр2
             string text = sr.ReadToEnd();
             int k = 0;
             var password = new StringBuilder(5);
-            for (char p0 = '!'; p0 <= '~'; p0++){
+            for (char p0 = 'f'; p0 <= '~'; p0++){
+
                 for (char p1 = '!'; p1 <= '~'; p1++){
                     for (char p2 = '!'; p2 <= '~'; p2++){
                         for (char p3 = '!'; p3 <= '~'; p3++){
@@ -75,6 +76,7 @@ namespace Пр2
                         }
                     }
                 }
+                Console.WriteLine(p0);
             }
             Console.WriteLine("end");
         }
