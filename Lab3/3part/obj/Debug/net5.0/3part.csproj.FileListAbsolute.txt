@@ -1,0 +1,16 @@
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.exe
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.deps.json
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.runtimeconfig.json
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.runtimeconfig.dev.json
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.dll
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\ref\3part.dll
+D:\Files\Programing\С#\Lab3\3part\bin\Debug\net5.0\3part.pdb
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.csproj.AssemblyReference.cache
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.AssemblyInfoInputs.cache
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.AssemblyInfo.cs
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.csproj.CoreCompileInputs.cache
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.dll
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\ref\3part.dll
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.pdb
+D:\Files\Programing\С#\Lab3\3part\obj\Debug\net5.0\3part.genruntimeconfig.cache
