@@ -66,9 +66,11 @@ namespace Lab6._1
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your password: ");
+            var passw = Console.ReadLine();
             const string original = "Text to encrypt with hash";
-            var key = PBKDF2.HashPassword(Encoding.Unicode.GetBytes(original), PBKDF2.GenerateSalt(), 30000, HashAlgorithmName.SHA256, 32);
-            var iv = PBKDF2.HashPassword(Encoding.Unicode.GetBytes(original), PBKDF2.GenerateSalt(), 30000, HashAlgorithmName.SHA256, 16);
+            var key = PBKDF2.HashPassword(Encoding.Unicode.GetBytes(passw), PBKDF2.GenerateSalt(), 30000, HashAlgorithmName.SHA256, 32);
+            var iv = PBKDF2.HashPassword(Encoding.Unicode.GetBytes(passw), PBKDF2.GenerateSalt(), 30000, HashAlgorithmName.SHA256, 16);
             var encrypted = aesChipher.Encrypt(Encoding.UTF8.GetBytes(original), key, iv);
             var decrypted = aesChipher.Decrypt(encrypted, key, iv);
             var decryptedMessage = Encoding.UTF8.GetString(decrypted);
