@@ -50,9 +50,6 @@ namespace Lab7._2
             }
             return cipherbytes;
         }
-
-
-
         static void Main(string[] args)
         {
             string mess = "Srcret message";
