@@ -1,0 +1,16 @@
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.csproj.AssemblyReference.cache
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.AssemblyInfoInputs.cache
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.AssemblyInfo.cs
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.csproj.CoreCompileInputs.cache
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.exe
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.deps.json
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.runtimeconfig.json
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.runtimeconfig.dev.json
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.dll
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\ref\Lab7.2.dll
+D:\Files\Programing\С#\Lab7\Lab7.2\bin\Debug\net5.0\Lab7.2.pdb
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.dll
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\ref\Lab7.2.dll
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.pdb
+D:\Files\Programing\С#\Lab7\Lab7.2\obj\Debug\net5.0\Lab7.2.genruntimeconfig.cache
