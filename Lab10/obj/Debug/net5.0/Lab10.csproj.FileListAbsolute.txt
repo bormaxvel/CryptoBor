@@ -1,0 +1,16 @@
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.csproj.AssemblyReference.cache
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.AssemblyInfoInputs.cache
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.AssemblyInfo.cs
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.csproj.CoreCompileInputs.cache
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.exe
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.deps.json
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.runtimeconfig.json
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.runtimeconfig.dev.json
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.dll
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\ref\Lab10.dll
+D:\Files\Programing\С#\Lab10\bin\Debug\net5.0\Lab10.pdb
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.dll
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\ref\Lab10.dll
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.pdb
+D:\Files\Programing\С#\Lab10\obj\Debug\net5.0\Lab10.genruntimeconfig.cache

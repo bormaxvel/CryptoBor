@@ -57,13 +57,13 @@ namespace Lab8._3
 
             string NamePublicKey = "KovalValentyn (2).xml";          // для зашифровки назва ключа
             
-            string NameForMessageToDecrypt = "encryptMessage.dat";    // для розшифровки назва повыдомлення
+            string NameForMessageToDecrypt = "message_Borysenko.dat";    // для розшифровки назва повыдомлення
             
-            AssignNewKey("Borysenko_Public.xml");
+            // AssignNewKey("Borysenko_Public.xml");
 
             //Зашифровка
             var encrypted = EncryptData(NamePublicKey, Encoding.Unicode.GetBytes(mess));
-            File.WriteAllBytes ("MyMessage(maks).dat", encrypted);
+            File.WriteAllBytes ("NewMyMessage(maks).dat", encrypted);
             Console.WriteLine("Message = " + mess);
             Console.WriteLine();
 
