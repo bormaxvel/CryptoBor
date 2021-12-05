@@ -60,7 +60,7 @@ namespace Lab10
         {
             var document = Encoding.UTF8.GetBytes("Private Document (original)");
             byte[] hashedDocument = ComputeHashSha256(document);
-            AssignNewKey("Borysenko_Public.xml");
+            //AssignNewKey("Borysenko_Public.xml");
             var signature = SignData(hashedDocument);
             var verified = VerifySignature(hashedDocument, signature, "Borysenko_Public.xml");
             Console.WriteLine(" Original Text = " + Encoding.Default.GetString(document));
