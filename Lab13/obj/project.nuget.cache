@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrMyUPalB5ZKdjHsEkMQugj8WiKkAAnuP2GX0bNtVpM6HhrvPipoL9LDCYi+dencnFUpjCnTaTt8k/TQE8FNhg==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Programing\\С#\\Lab13\\Lab13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nlog.config\\4.7.13\\nlog.config.4.7.13.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nlog.schema\\4.7.13\\nlog.schema.4.7.13.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

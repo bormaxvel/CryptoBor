@@ -1,0 +1,43 @@
+2021-12-10 12:08:02.8616|ERROR|Program|Goodbye cruel world
+2021-12-10 12:08:21.1473|ERROR|Program|Goodbye cruel world
+2021-12-10 12:16:59.2453|ERROR|Lab13.Program|Goodbye cruel world
+2021-12-10 21:31:18.0711 | ErrorInput string was not in a correct format.|Lab13.Program.Main
+2021-12-10 21:44:37.8128 | ErrorInput string was not in a correct format.|Lab13.Program.Main
+2021-12-10 21:44:47.3247 | Warn|Lab13.Protector.Register
+2021-12-10 21:44:48.4625 | Warn|Lab13.Protector.Register
+2021-12-10 21:45:12.6777 | Warn|Lab13.Protector.CheckUserFeatures
+2021-12-10 21:45:12.6777 | Warn|Lab13.Protector.CheckUserFeatures
+2021-12-10 21:45:33.6383 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:36.5123 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:41.3708 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:43.1106 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:44.2163 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:44.8627 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:45.6565 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:46.6187 | Warn|Lab13.Protector.CheckPassword
+2021-12-10 21:45:48.6029 | Warn|Lab13.Protector.CheckUserFeatures
+2021-12-10 21:45:48.6029 | Warn|Lab13.Protector.CheckUserFeatures
+2021-12-10 21:53:49.4523 | Warn |Lab13.Protector.Register | Error, User exist while logining
+2021-12-10 21:54:23.1693 | Warn |Lab13.Protector.Register | Error, User exist while logining
+2021-12-10 21:54:23.8657 | Warn |Lab13.Protector.Register | Error, User exist while logining
+2021-12-10 21:54:33.2060 | Warn |Lab13.Protector.Register | Error, User exist while logining
+2021-12-10 21:54:33.9259 | Warn |Lab13.Protector.Register | Error, User exist while logining
+2021-12-10 21:54:42.8497 | Warn |Lab13.Protector.CheckPassword | CheckPassword - bad login
+2021-12-10 21:55:33.3722 | Warn |Lab13.Protector.CheckPassword | CheckPassword - bad password
+2021-12-10 22:12:08.7864 | Error Attempted to divide by zero.|Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-10 22:12:40.1701 | Fatal Attempted to divide by zero.|Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-11 11:44:35.9264 | Fatal Attempted to divide by zero.|Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-11 11:49:51.4600 | Fatal  
+System.DivideByZeroException: Attempted to divide by zero.|Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-11 11:56:35.9383 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-11 11:57:37.2418 | Warn |  | Lab13.Protector.CheckPassword | CheckPassword - bad password
+2021-12-11 12:23:59.2369 | Warn |  | Lab13.Protector.Register | Error, User exist while logining
+2021-12-11 12:24:14.7511 | Warn |  | Lab13.Protector.CheckPassword | CheckPassword - bad password
+2021-12-11 12:25:17.4056 | Warn |  | Lab13.Protector.Register | Error, User exist while logining
+2021-12-11 12:26:36.1764 | Warn |  | Lab13.Protector.Register | Error, User exist while logining
+2021-12-11 12:26:36.6539 | Warn |  | Lab13.Protector.Register | Error, User exist while logining
+2021-12-11 12:30:02.9139 | Error | Input string was not in a correct format. | Lab13.Program.Main | You entered not a positive NUMBER
+2021-12-11 12:30:59.5898 | Warn |  | Lab13.Protector.CheckUserFeatures | Have no acces for Guest
+2021-12-11 12:31:50.6138 | Warn |  | Lab13.Protector.CheckPassword | CheckPassword - bad password
+2021-12-11 12:37:49.3212 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-11 12:54:25.9768 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException
