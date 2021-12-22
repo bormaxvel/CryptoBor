@@ -55,9 +55,9 @@ namespace Lab8._3
             //Змінні
             string mess = "Secret message from Maksym";
 
-            string NamePublicKey = "KovalValentyn (2).xml";          // для зашифровки назва ключа
+            string NamePublicKey = "LarionovPublicKey.xml";          // для зашифровки назва ключа
             
-            string NameForMessageToDecrypt = "message_Borysenko.dat";    // для розшифровки назва повыдомлення
+            string NameForMessageToDecrypt = "Message.dat";    // для розшифровки назва повыдомлення
             
             // AssignNewKey("Borysenko_Public.xml");
 

@@ -41,3 +41,5 @@ System.DivideByZeroException: Attempted to divide by zero.|Lab13.Program.Main | 
 2021-12-11 12:31:50.6138 | Warn |  | Lab13.Protector.CheckPassword | CheckPassword - bad password
 2021-12-11 12:37:49.3212 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException
 2021-12-11 12:54:25.9768 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException
+2021-12-14 19:40:45.1569 | Warn |  | Lab13.Protector.Register | Error, User exist while logining
+2021-12-14 19:40:46.9212 | Fatal | Attempted to divide by zero. | Lab13.Program.Main | Fatal error - DivideByZeroException

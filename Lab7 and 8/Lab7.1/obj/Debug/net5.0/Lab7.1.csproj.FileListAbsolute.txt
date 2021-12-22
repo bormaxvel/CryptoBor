@@ -14,3 +14,19 @@ D:\Files\Programing\С#\Lab7\Lab7.1\obj\Debug\net5.0\Lab7.1.dll
 D:\Files\Programing\С#\Lab7\Lab7.1\obj\Debug\net5.0\ref\Lab7.1.dll
 D:\Files\Programing\С#\Lab7\Lab7.1\obj\Debug\net5.0\Lab7.1.pdb
 D:\Files\Programing\С#\Lab7\Lab7.1\obj\Debug\net5.0\Lab7.1.genruntimeconfig.cache
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.exe
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.deps.json
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.runtimeconfig.json
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.runtimeconfig.dev.json
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.dll
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\ref\Lab7.1.dll
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\bin\Debug\net5.0\Lab7.1.pdb
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.csproj.AssemblyReference.cache
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.AssemblyInfoInputs.cache
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.AssemblyInfo.cs
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.csproj.CoreCompileInputs.cache
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.dll
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\ref\Lab7.1.dll
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.pdb
+D:\Files\Programing\С#\Lab7 and 8\Lab7.1\obj\Debug\net5.0\Lab7.1.genruntimeconfig.cache

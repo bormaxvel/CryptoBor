@@ -1,0 +1,15 @@
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\С#.exe
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\С#.deps.json
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\С#.runtimeconfig.json
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\С#.dll
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\ref\С#.dll
+D:\Files\Programing\С#\Lab1\bin\Debug\net6.0\С#.pdb
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.csproj.AssemblyReference.cache
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.AssemblyInfoInputs.cache
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.AssemblyInfo.cs
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.csproj.CoreCompileInputs.cache
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.dll
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\ref\С#.dll
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.pdb
+D:\Files\Programing\С#\Lab1\obj\Debug\net6.0\С#.genruntimeconfig.cache
